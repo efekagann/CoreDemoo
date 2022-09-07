@@ -18,6 +18,5 @@ namespace EntityLayer.Concrete
         public bool CategoryStatus { get; set; }
 
         //Category tablosunu blog tablosu ile ilişkilendirdik
-        public List<Blog> Blogs { get; set; }
     }
 }

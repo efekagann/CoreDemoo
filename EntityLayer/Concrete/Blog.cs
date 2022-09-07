@@ -15,14 +15,14 @@ namespace EntityLayer.Concrete
         public string BlogContent { get; set; }
         public string BlogThumbnailImage { get; set; }
 
-        public int BlogImage { get; set; }
+        public string BlogImage { get; set; }
         public DateTime CreateDate { get; set; }
         public bool BlogStatus { get; set; }
 
         //ilişki kurmak için gerekli kısımlar
+
         public int CategoryId { get; set; }
         public Category Category { get; set; }
-
         public List<Comment> Comments { get; set; }
 
     }
