@@ -1,6 +1,6 @@
 ﻿namespace DataAccessLayer.EntityFrameWork
 {
-    internal interface IGenericRepository
+    public interface IGenericRepository
     {
     }
 }

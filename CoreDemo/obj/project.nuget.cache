@@ -1,9 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "BPJ2KYgMyyABTtkbz1Wgba0McSdiAdp/ireENiPiSc3xR+d4x/SiNMlLv07IpygXP99GDZYF6wrvMNH8DPM8zQ==",
+  "dgSpecHash": "grvXtqfvYBhbmPjx5y+tKY43ipO72wLXtN1TFmgGcBqypFx2L/5qc6Ro108WuxR4q5W6316PVqHVQ0Gh9MQpyA==",
   "success": true,
   "projectFilePath": "C:\\Users\\efeka\\Desktop\\C#\\CoreDemo\\CoreDemo\\CoreDemo.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\efeka\\.nuget\\packages\\fluentvalidation\\11.2.1\\fluentvalidation.11.2.1.nupkg.sha512",
+    "C:\\Users\\efeka\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.2.2\\fluentvalidation.aspnetcore.11.2.2.nupkg.sha512",
+    "C:\\Users\\efeka\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.2.1\\fluentvalidation.dependencyinjectionextensions.11.2.1.nupkg.sha512",
     "C:\\Users\\efeka\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\efeka\\.nuget\\packages\\messagepack\\2.1.152\\messagepack.2.1.152.nupkg.sha512",
     "C:\\Users\\efeka\\.nuget\\packages\\messagepack.annotations\\2.1.152\\messagepack.annotations.2.1.152.nupkg.sha512",
